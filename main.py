@@ -8,6 +8,8 @@
 # my_function()
 
 """
+https://pythontutor.com/visualize.html#mode=edit
+
 Debugging number 1
 
 For i from 1 to 20 and if i reaches 20, then only print
